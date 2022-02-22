@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Quene. The Quenes Maiestie being in good and perfect peace with all princes [and] countreys, and meanyng, with the assistaunce of almightie God, to continue in the same: hath thought conuenient ... to notifie to her subiectes certayne articles to be by them obserued ...</title>
+            <title>Proclamations. 1564-07-31</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1564</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21672</idno>
+            <idno type="STC">STC 7976</idno>
+            <idno type="STC">ESTC S112224</idno>
+            <idno type="EEBO-CITATION">99847482</idno>
+            <idno type="PROQUEST">99847482</idno>
+            <idno type="VID">12519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 455:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Quene. The Quenes Maiestie being in good and perfect peace with all princes [and] countreys, and meanyng, with the assistaunce of almightie God, to continue in the same: hath thought conuenient ... to notifie to her subiectes certayne articles to be by them obserued ...</title>
+                  <title>Proclamations. 1564-07-31</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>2 sheets   </extent>
+               <publicationStmt>
+                  <publisher>In Powles Churchyarde by Richard Iugge and Iohn Cawood, Printers to the Quenes Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno.1564. Mense Iulii [1564]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A proclamation for suppressing piracy and regulating the sale of goods seized from pirates.</note>
+                  <note>At foot of sheet 2: Cum priuilegio Regiæ Maiestatis.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pirates --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:12519:1" rendition="simple:additions"/>
+            <head>¶ By the Quene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Quenes Maieſtie being in good and perfect peace with all Princes &amp; Coun<g ref="char:EOLhyphen"/>treys, and meanyng, with the aſſiſtaunce of almightie God, to continue in the ſame: Hath thought conuenient, accordyng to the treatiſe of peace betwixte her Maieſtie and other Princes her neyghbours, for auoydyng of ſundry offen<g ref="char:EOLhyphen"/>ces vpon the Seas, to notifie to her Subiectes certayne Articles to be by them obſerued, the lyke wherof, her Maieſtie vnderſtandeth are ment for the ſame purpoſe to be publiſhed and obſerued on the part of the kynges and princes her neighbours.</p>
+            <p>Fyrſt her Maieſtie ſtrayghtly commaundeth, that all maner of ſhyppes and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> armed for the warre, and beyng nowe vpon the Seas, ſhall with all ſpede retourne from the Seas, and diſarme themſelues, except they be ſuch as haue alredy geuen good and ſufficient ſuertie not to offende any of the Subiectes of the Kynges and Princes with whom her Maieſtie is in amitie, vpon payne to be ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pted as breakers of the common peace, and to be punyſhed with all ſeueritie.</p>
+            <p>Secondly, that no maner of ſhippes or veſſelles be ſuffred from henceforth to go out of any Port or Creeke, without good and ſufficient ſuertie firſt geuen in the Court of the Admiraltie, or to the principall officers of the Portes, accordyng to the auncient good order heretofore vſed, for not offendyng of any maner of perſon beyng in peace with her Maieſtie, except ſuch veſſelles as ſhalbe prepared by Marchauntes, well knowen only for the exerciſyng of marchaundizes, or for fyſſhyng, or to make ordinary paſſages of perſons, or ſuch as <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>albe ſpecially appoynted by her Maieſtie (yf cauſe ſhall ſo require) to be armed and paſſe to the Seas, for clearyng of the ſame from pirates or rouers, vpon payne that whatſoeuer officers of any Portes ſhall ſuffer or ayde any maner of perſon to do to the contrary, the ſame officers or miniſters to be taken as breakers of the common peace, and the offendours them ſelues to be vſed as pirates.</p>
+            <p>Thirdly, her Maieſtie ſtrayghtly chargeth and commaundeth, that no maner perſon ſhall receiue directly or indirectly, any maner of pirates or rouers vpon the Seas, excepte it be without fraude to arreſt and ap<g ref="char:EOLhyphen"/>prehende them, nor that they ſhall ſuccour any of them with victuals, money, apparell, for them ſelues or theyr veſſelles, or any other thyng whatſoeuer, vpon payne to be taken, vſed, and punyſhed as abbettours and maynteyners of the ſayde pirates. And for the reliefe of ſuch as ſhal chaunce to be robbed or ſpoyled by any Pirates, and for the recouery of theyr goodes, with the leaſt charges, and in moſt ſpedy maner that may <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Her Maieſtie doth order and commaunde, that where any pirates or rouers vpon the Sea, ſhall come in<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any Port or Creeke, that there vpon the fyrſt arryuall of them, arreſt ſhalbe made forthwith of the per<g ref="char:EOLhyphen"/>ſons veſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elles and goodes, &amp; lykewyſe a perfect Inuentory of the ſame goodes, with theyr markes, qualities, and quantities. Of all whiche there ſhalbe, by the officers of the Port where the ſayde Pirates ſhall aryue, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vnto them at the leaſt fiue or ſixe perſons mete to be witneſſes) due certificat made vnder the hands <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> common ſeales of the ſayde officers, and ſubſcribed by the handes or markes of the ſayde witneſſes, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſame ſo in good fourme made and ſealed, ſhalbe cloſed vp &amp; ſent the next day after the arreſt made, with<g ref="char:EOLhyphen"/>out delay, by the officers of the port which haue made the arreſt, to the iudge of the Admiraltie, or to his de<g ref="char:EOLhyphen"/>putie, reſident in the Citie of London, conteynyng therin the tyme and place of the ſayd arreſt. And the ſaid Iudge or his deputie ſhall receiue the ſame, takyng an othe of the meſſenger that he hath made neither alte<g ref="char:EOLhyphen"/>ration nor diſcloſyng of the ſayde certificat. And ſhall further cauſe the ſame certificat to be ſafely kepte, to <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nde that ſuch perſons as ſhall come to complayne and ſeke for reſtitution, may exhibite to the ſaid Iudge or his deputie, theyr proues of theyr claymes, and ſo thereafter as it ſhall ſeme probable that the goodes do <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>long to the complaynantes, the ſame to be ſent to the places where theyr goodes ſhalbe, to recouer the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame by order of lawe, as the proues ſhall fall out. And the ſayde Iudge or his deputie, ſhall reaſonably and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auourably aſſeſſe and geue order what the parties ſpoyled ſhall pay for the charges of bryngyng the ſaid cer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ificat, hauyng therof before taken knowledge of the ſame by the meſſenger. And further it is ordered, for auoydyng of certayne vnlawefull exactions, whereof complayntes haue ben lately made, that no maner of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fficer<g ref="char:punc">▪</g> nor other perſon, ſhall haue any allowaunce made vnto them, by retaynyng to them ſelues of any of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he goodes and marchaundizes taken, but only in redy money for theyr charges or dueties for theyr labours or any other thynges done for the recouery or preſeruation of the ſayde goodes. Finally to auoyde certaine
+<pb facs="tcp:12519:2" rendition="simple:additions"/> fraudes whereof complaynt hath alſo ben made of officers and others, ſeaſyng the goodes brought in by pi<g ref="char:EOLhyphen"/>rates, and ſellyng of them ſpedely vnder theyr valure, for theyr owne lucre: Her Maieſtie ordereth &amp; ſtraight<g ref="char:EOLhyphen"/>lye commaundeth, that no maner of perſon be ſuffred to make price or ſale, or to diſperſe abrode any parte of the wares or commodities that ſhalbe brought to any portes by any pyrates or rouers, or by any other that ſhall haue taken them vpon the Sea from any pyrates or rouers, duryng the ſpace of .vi. monethes, from the tyme that the ſame wares and co<g ref="char:cmbAbbrStroke">̄</g>modities ſhalbe ſo brought into the port, vpon payne that whoſo<g ref="char:EOLhyphen"/>euer ſhall within the ſayde ſpace do the contrary, ſhalbe taken and ordered as a fautour of the ſayde piracye, except it ſhalbe in ſuch caſes as the ſayde wares or ſome part therof, ſhalbe without fraude iudged by the of<g ref="char:EOLhyphen"/>ficers of the port, with the conſent of .iiii. or .vi. other honeſt perſons of good behauiour and vnderſtanding, to be of ſuch nature as they cannot be preſerued ſo longe tyme without corruption or notoryous detryment: In which caſe, the ſame ſhalbe priſed in the next market place if any be neare, or els in ſome other open place, by the othes of .vi. honeſt deſcrete perſons at the leaſt, and ſo after open proclamation made in three ſeuerall places of the ſayde port, to be put to ſale within twelue houres after the laſt proclamation, to the beſt pryce that can be obteyned for the ſame. And that good ſureties be geuen to the head offycers of the port, for the aunſweryng of aſmuch in value to ſuch perſons as ſhal afterwarde make title and proues to the ſame, vpon the ſayd title approued good by order of lawe: of which ſureties the ſayd offycers ſhal take good regarde, that therein be no fraude nor deceipt vſed, as they wyll aunſwere thereunto. And for all other good meanes to withſtande the offences vpon the Seas, or to make ſpedy and fauourable adminiſtration of Iuſtice to al ma<g ref="char:EOLhyphen"/>ner of perſons that ſhall make purſuite therefore: Her Maieſtie geueth ſtrayght charge, and therewith alſo requyreth all maner her officers, miniſters, and good ſubiectes, to haue regarde to the execution of all other auncient lawes and orders heretofore made, deuiſed, or vſed to this intent, and them to reuyue and put in ex<g ref="char:EOLhyphen"/>ecution as they ſhall ſe cauſe, and as they wyll aunſwere if they ſhalbe charged with the contrary: Wherein her Maieſtie intendeth heareafter to vſe ſome ſeueritie in the fauour of Iuſtice, and for the ſatiſfaction of her Alyes and confederates, of whom ſhe is promiſed for her Subiectes, to haue the like fauour to all pur<g ref="char:EOLhyphen"/>poſes and intentes.</p>
+            <closer>
+               <dateline>Yeuen at Her Maieſties Manour of Enfield
+<date>the laſt day of Iuly. 1564. in the .vi. yere of her hyghnes raigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Quene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London in Powles Churchyarde by Richard Iugge and Iohn Cawood, Printers to the Quenes Maieſtie. Anno. <hi>1564.</hi> Menſe Iulii.</p>
+            <p>
+               <hi>Cum priuilegio Regiae Maieſtatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
